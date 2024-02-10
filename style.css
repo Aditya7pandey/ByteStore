@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-color: #000000;
+}
+
+.nav-link{
+    margin-left: 100px;
+}
+
+.sec{
+    display:flex;
+    margin-left: 10em;
+}
+
+.login{
+    margin-left: 2rem;
+}
+.Sign{
+    margin-left: 1rem;
+}
+
+.crausel{
+}
